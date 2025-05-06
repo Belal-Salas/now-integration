@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">ae370202c3fc2610f7cffe1d050131b1</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_236917_datarail_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>haroon</sys_created_by>
+        <sys_created_on>2025-04-10 18:35:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e370202c3fc2610f7cffe1d050131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="DataRail" source="x_236917_datarail">0927cacec3bc2610f7cffe1d050131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DataRail">0927cacec3bc2610f7cffe1d050131a8</sys_scope>
+        <sys_update_name>par_dashboard_widget_6e370202c3fc2610f7cffe1d050131bb</sys_update_name>
+        <sys_updated_by>haroon</sys_updated_by>
+        <sys_updated_on>2025-04-10 18:35:44</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DataRail">0927cacec3bc2610f7cffe1d050131a8</application>
+        <file_path/>
+        <instance_id>eb5b5289fbf8a2d4363cf633beefdce3</instance_id>
+        <instance_name>dev320511</instance_name>
+        <name>par_dashboard_widget_6e370202c3fc2610f7cffe1d050131bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ae370202c3fc2610f7cffe1d050131b1</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_236917_datarail_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>haroon</sys_created_by><sys_created_on>2025-04-10 18:35:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e370202c3fc2610f7cffe1d050131bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="DataRail" source="x_236917_datarail">0927cacec3bc2610f7cffe1d050131a8</sys_package><sys_policy/><sys_scope display_value="DataRail">0927cacec3bc2610f7cffe1d050131a8</sys_scope><sys_update_name>par_dashboard_widget_6e370202c3fc2610f7cffe1d050131bb</sys_update_name><sys_updated_by>haroon</sys_updated_by><sys_updated_on>2025-04-10 18:35:44</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1774676224</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c127cacec3bc2610f7cffe1d050131ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>haroon</sys_created_by>
+        <sys_created_on>2025-04-10 18:35:44</sys_created_on>
+        <sys_id>6a370202c3fc2610f7cffe1d050131bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19620fc8f270000001</sys_recorded_at>
+        <sys_updated_by>haroon</sys_updated_by>
+        <sys_updated_on>2025-04-10 18:35:44</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>6e370202aafc2610bd4850bc34a820bc</update_guid>
+        <update_guid_history>6e370202aafc2610bd4850bc34a820bc:1774676224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e2370202c3fc2610f7cffe1d050131de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>haroon</sys_created_by>
+        <sys_created_on>2025-04-10 18:35:45</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>240dcccdf85b41de84a9792dbbe2dd44</sys_id>
+        <sys_metadata>6e370202c3fc2610f7cffe1d050131bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DataRail" source="x_236917_datarail">0927cacec3bc2610f7cffe1d050131a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DataRail">0927cacec3bc2610f7cffe1d050131a8</sys_scope>
+        <sys_scope_delete display_value="">51c3b71756d3417b9ee91c06925c0159</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6e370202c3fc2610f7cffe1d050131bb</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6e370202c3fc2610f7cffe1d050131bb">6a370202c3fc2610f7cffe1d050131bd</sys_update_version>
+        <sys_updated_by>haroon</sys_updated_by>
+        <sys_updated_on>2025-04-10 18:35:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
