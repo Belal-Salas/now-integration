@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="77884a42c3fc2610f7cffe1d0501314c" label="Integration" max_length="40" name="x_236917_datarail_integration" type="collection">
+        <element label="Password" max_length="255" name="password" type="password2"/>
+        <element choice="1" label="Authentication Type" max_length="40" name="authentication_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="oAuth" sequence="1" value="oAuth"/>
+                <element inactive_on_update="false" label="Basic" sequence="0" value="Basic"/>
+            </choice>
+        </element>
+        <element label="Description" mandatory="true" max_length="4000" name="description" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Inbound" sequence="0" value="Inbound"/>
+                <element inactive_on_update="false" label="Outbound" sequence="1" value="Outbound"/>
+            </choice>
+        </element>
+        <element label="User name" max_length="255" name="user_name" type="string"/>
+        <element label="Table" max_length="32" name="table" reference="sys_db_object" type="reference"/>
+        <element label="Name" mandatory="true" max_length="255" name="name" type="string"/>
+        <index name="index">
+            <element name="table"/>
+        </index>
+    </element>
+</database>
